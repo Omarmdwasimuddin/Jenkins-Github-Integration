@@ -7,4 +7,5 @@
 #### Browser e search koro: ngrok download ba visit koro: https://ngrok.com/download/windows--->Download select koro--->Download button click koro--->Download hoyar por zip file ke extract all koro--->file click koro--->cmd open hobe.
 #### abar browser er https://ngrok.com/download/windows?tab=download jaw Add your authtoken er Sign up e click koro--->process gulo complete kore sign up koro--->click koro:Your Authtoken--->copy koro: Your Authtoken--->cmd te paste koro: ngrok config add-authtoken $YOUR_AUTHTOKEN
 ![](https://imgur.com/WDvbXHD.png)
+![](https://imgur.com/3Vm4jpz.png)
 ####

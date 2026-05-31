@@ -8,4 +8,4 @@
 #### abar browser er https://ngrok.com/download/windows?tab=download jaw Add your authtoken er Sign up e click koro--->process gulo complete kore sign up koro--->click koro:Your Authtoken--->copy koro: Your Authtoken--->cmd te paste koro: ngrok config add-authtoken $YOUR_AUTHTOKEN
 ![](https://imgur.com/WDvbXHD.png)
 ![](https://imgur.com/3Vm4jpz.png)
-####
+#### cmd te command koro: ngrok http 8080

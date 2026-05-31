@@ -166,14 +166,14 @@ GitHub Repo (push/edit)
 4. Dashboard-এ **`Your Authtoken`** ক্লিক করো
 5. Token কপি করো
 
-   ![ngrok Authtoken Page](https://imgur.com/3Vm4jpz.png)
+   ![ngrok config add-authtoken command in CMD](https://imgur.com/WDvbXHD.png)
 
 6. CMD-এ নিচের কমান্ড চালাও (Token পেস্ট করো):
    ```cmd
    ngrok config add-authtoken YOUR_AUTHTOKEN_HERE
    ```
 
-   ![ngrok config add-authtoken command in CMD](https://imgur.com/WDvbXHD.png)
+   ![ngrok Authtoken Page](https://imgur.com/3Vm4jpz.png)
 
    > ✅ সফল হলে লেখা আসবে: `Authtoken saved to configuration file`
 

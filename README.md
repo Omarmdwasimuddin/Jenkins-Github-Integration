@@ -10,5 +10,5 @@
 ![](https://imgur.com/3Vm4jpz.png)
 #### cmd te command koro: ngrok http 8080--->open hobe
 ![](https://imgur.com/FWDj0zT.png)
-#### github repo te jaw--->click koro: settings--->click: Webhooks--->click: Add webhook--->Payload URL e cmd theke pawa url paste koro--->baki sob thik thakbe.
+#### github repo te jaw--->click koro: settings--->click: Webhooks--->click: Add webhook--->Payload URL e cmd theke pawa url paste koro--->baki sob thik thakbe--->click: Add webhook
 ![](https://imgur.com/D9cgu0R.png)

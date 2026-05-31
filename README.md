@@ -12,3 +12,5 @@
 ![](https://imgur.com/FWDj0zT.png)
 #### github repo te jaw--->click koro: settings--->click: Webhooks--->click: Add webhook--->Payload URL e cmd theke pawa url paste koro--->baki sob thik thakbe--->click: Add webhook
 ![](https://imgur.com/D9cgu0R.png)
+#### Ekhon amra test korbo git repo te kono change korle jenkins e build hoi kina---> er jonno README.md file e kichu edit korbo then edit sheshe check korbo jenkins e build hoiche kina. ---->Console Output e details dekhbo.
+![](https://imgur.com/X8FdOFv.png)

@@ -9,3 +9,4 @@
 ![](https://imgur.com/WDvbXHD.png)
 ![](https://imgur.com/3Vm4jpz.png)
 #### cmd te command koro: ngrok http 8080
+![](https://imgur.com/FWDj0zT.png)
